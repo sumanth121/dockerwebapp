@@ -209,11 +209,4 @@
         </plugins>
     </build>
 
-	<distributionManagement>
-		<repository>
-		    <id>nexusRepo</id>
-		    <url>http://54.172.23.185:8081/repository/Project_repo/</url>
-		</repository>
-  	</distributionManagement>
-	
 </project>
